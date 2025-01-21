@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://nikhi-cr.github.io/Nikhithacr.github.io/
 
 :star: Star me on GitHub — it helps!
 
